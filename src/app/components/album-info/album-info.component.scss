@@ -1,0 +1,25 @@
+.albumInfo {
+  width: 100%;
+  min-height: 250px;
+  background-color: var(--background-module-color);
+
+  ul {
+    padding: 0;
+    margin: 0;
+    margin-top: 0.5rem;
+    list-style: none;
+    li {
+      border-top: 1px solid #d2d2d2;
+      font-size: 14px;
+      padding: 0.3rem;
+    }
+  }
+  p {
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    span {
+      color: var(--accent-text-color);
+    }
+  }
+}

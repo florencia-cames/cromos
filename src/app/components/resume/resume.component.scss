@@ -1,0 +1,25 @@
+.info {
+  background-color: #dddddd;
+  border-radius: 4px;
+  width: 100%;
+  min-height: 80px;
+  font-size: 12px;
+}
+.infoCard {
+  width: 100%;
+}
+
+.resume {
+  width: 100%;
+  p {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+  h3 {
+    padding: 0;
+    margin-bottom: 0.5rem;
+  }
+}
